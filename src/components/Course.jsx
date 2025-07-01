@@ -130,7 +130,7 @@ function Course(){
             <i className="bi bi-instagram"></i>
             <i className="bi bi-twitter"></i>
           </span>
-          <p>MED PLUS your trusted Healthy Partner!!!!&copy; 2025 All rights reserved. </p>
+          <p>FORGIVE TECHIES your trusted Knowledge Partner!!!!&copy; 2025 All rights reserved. </p>
         </div></>
   );
 }

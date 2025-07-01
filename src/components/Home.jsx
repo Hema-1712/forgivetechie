@@ -42,7 +42,7 @@ function Home() {
       </div><header className="banner">
         <img src={banner} alt="Institute Banner" className="img-fluid w-100" />
         <div className="banner-text">
-          <h1>Welcome to MyInstitute</h1>
+          <h1>Welcome to My FORGIVE TECHIES</h1>
           <p>Your Future Begins Here</p>
         </div>
       </header><section className="about-section py-5 text-center">
@@ -130,7 +130,9 @@ function Home() {
             <ul>
               <li><a href="#">Saved Addresses</a></li>
               <li><a href="#">Payment History</a></li>
+             
               <li><a href="#">Account Settings</a></li>
+               <li><a href="#">Placement details</a></li>
             </ul>
           </div>
           <div className="footer-links">

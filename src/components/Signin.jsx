@@ -41,7 +41,7 @@ function Signin() {
       </nav>
 
       
-      <div className="signin-wrapper d-flex justify-content-center align-items-center mt-5" >
+      <div className="signin-wrapper d-flex justify-content-center align-items-center mt-5"  style={{backgroundColor:'khaki'}} >
         <div className="signin-container">
           <form className="signin-form" onSubmit={handleSubmit}>
             <h2 className="text-center mt-4 mb-4">FORGIVE TECHIE PORTAL</h2>
